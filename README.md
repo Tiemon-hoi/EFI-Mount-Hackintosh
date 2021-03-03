@@ -11,4 +11,8 @@ You need to set exposesensitivedata to 0x3 (or 3) in config.plist for this scrip
 ### Installation
 To use this script do the following commands:
     
-     git clone 
+     
+     git clone https://github.com/Tiemon-hoi/EFI-Mount-Hackintosh.git
+     cd EFI-Mount-Hackintosh
+     chmod +x 
+     
