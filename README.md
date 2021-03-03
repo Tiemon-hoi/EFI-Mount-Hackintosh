@@ -17,3 +17,5 @@ To use this script do the following commands:
      chmod +x *.command
 Then run with ./efimount.command (terminal) or double click the .command in finder.
      
+### For people who prefer a video guide:
+![](instructions.gif)
