@@ -18,4 +18,4 @@ To use this script do the following commands:
 Then run with ./efimount.command (terminal) or double click the .command in finder.
      
 ### For people who prefer a video guide:
-![](instructionsgif/instructions.gif)
+![](http://tijmenhuisman.eu/GIFS/instructions.gif)
